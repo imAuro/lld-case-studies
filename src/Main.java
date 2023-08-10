@@ -36,7 +36,7 @@ public class Main {
             while(game.getGameState().equals(GameState.In_Progress))
             {
                 gameController.printBoard(game);
-                System.out.println("Would you like to do UNDO");
+                System.out.println("Would you like to do UNDO? YES/NO");
                 String undoAnswer= scanner.next();
                 if(undoAnswer.equalsIgnoreCase("YES"))
                 {
