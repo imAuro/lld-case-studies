@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1386b1db-c347-4939-a6a3-6fe69c261e83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lld-case-studies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/Exceptions/BotCountMoreThanOneException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/Exceptions/DuplicateSymbolException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/Exceptions/PlayerCountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/BotDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/CellState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/PlayerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/models/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/BotPlayingStrategy/BotPlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/BotPlayingStrategy/BotPlayingStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/BotPlayingStrategy/EasyBotPlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/BotPlayingStrategy/HardBotPlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/BotPlayingStrategy/MediumBotPlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/WinningStrategy/ColumnWinningStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/WinningStrategy/DiagonalWinningStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/WinningStrategy/RowWinningStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/strategies/WinningStrategy/WinningStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Tf1mMYtlodsvaHOCRvlECkrwNK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tictactoe.Exceptions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1386b1db-c347-4939-a6a3-6fe69c261e83" name="Changes" comment="" />
+      <created>1691419482748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691419482748</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
