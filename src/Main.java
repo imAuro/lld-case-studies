@@ -43,6 +43,7 @@ public class Main {
                     gameController.undo(game);
                     continue;
                 }
+
                 gameController.makeMove(game);
 
 
